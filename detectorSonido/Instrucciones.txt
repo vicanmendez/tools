@@ -1,0 +1,11 @@
+PREVIAMENTE ES NECESARIO TENER INSTALADO Python y pip en el PC.
+
+En el código:
+--Desde el código, modificar el proceso que se quiere borrar y el umbral de sonido a superar para cerrar el programa,
+por defecto, cierra el emulador "Dolphin.exe" al superar el umbral de -2 dB.
+
+1) Ejecutar un terminal en la carpeta del proyecto
+
+2) Instalar los requerimientos del proyecto: pip install -r requirements.txt
+
+3) Ejecutar el programa: python sound_detector.py
